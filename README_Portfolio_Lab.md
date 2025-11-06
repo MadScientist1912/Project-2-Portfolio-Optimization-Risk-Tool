@@ -94,20 +94,6 @@ Then open the local URL printed by Streamlit.
 
 ---
 
-## Files in this repo (suggested)
-```
-portfolio-lab/
-├─ app.py
-├─ artifacts/                 # created by the app
-│  ├─ weights_tangency.csv
-│  ├─ weights_minvar.csv
-│  ├─ asset_returns.csv
-│  ├─ risk_report.json
-│  └─ risk_report_mc.json     # optional (if you save MC metrics)
-├─ README.md
-└─ requirements.txt
-```
-
 ---
 
 ## License
