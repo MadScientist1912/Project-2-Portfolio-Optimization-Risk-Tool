@@ -1,0 +1,6 @@
+streamlit==1.39.0
+pyngrok==6.0.0
+scikit-learn
+pandas
+numpy
+matplotlib

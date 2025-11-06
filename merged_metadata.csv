@@ -1,0 +1,13 @@
+Ticker,SourceFile,PriceColumn,DataCompleteness,FirstDate,LastDate,RowCount
+AAPL,historical_data/AAPL.csv,Close,1.0,2019-05-31,2021-06-30,526
+ADBE,historical_data/ADBE.csv,Close,1.0,2019-05-31,2021-06-30,526
+AMZN,historical_data/AMZN.csv,Close,1.0,2019-05-31,2021-06-30,526
+BTC-USD,historical_data/BTC-USD.csv,Close,1.0,2019-05-31,2021-07-01,759
+FB,historical_data/FB.csv,Close,1.0,2019-05-31,2021-06-30,526
+GCF,historical_data/GCF.csv,Close,1.0,2019-05-31,2021-07-01,522
+IRX,historical_data/IRX.csv,Close,1.0,2019-05-31,2021-07-01,446
+MSFT,historical_data/MSFT.csv,Close,1.0,2019-05-31,2021-06-30,526
+NVDA,historical_data/NVDA.csv,Close,1.0,2019-05-31,2021-06-30,526
+QCOM,historical_data/QCOM.csv,Close,1.0,2019-05-31,2021-06-30,526
+TSLA,historical_data/TSLA.csv,Close,1.0,2019-05-31,2021-06-30,526
+TXN,historical_data/TXN.csv,Close,1.0,2019-05-31,2021-06-30,526
